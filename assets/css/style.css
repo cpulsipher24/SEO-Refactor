@@ -53,7 +53,7 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 600px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -106,9 +106,9 @@ main {
   }
   
   .services {
-    width: 75%;
+    width: 100%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40x;
   }
 .benefit {
     margin-bottom: 32px;
