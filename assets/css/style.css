@@ -2,6 +2,8 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    color: #ffffff
+
 }
 
 body {
@@ -48,6 +50,7 @@ a {
 
 p {
     font-size: 16px;
+    background-color: #2589bd;
 }
 
 .hero {
@@ -58,6 +61,13 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+section.maincontent h2{
+   background-color: #2589bd
+    
+
+}
+
 
 section.maincontent article img {
     height: 50%;
