@@ -12,6 +12,7 @@ This project serves as a website for the Horiseon Marketing Agency. The main goa
 * Descriptive comments were added more more viewer ease. 
 
 ## Links
-
+https://cpulsipher24.github.io/SEO-Refactor/
+https://github.com/cpulsipher24/SEO-Refactor
 
 
